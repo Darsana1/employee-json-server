@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin123",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "2",
+      "name": "darsana",
+      "email": "darsanaunni777@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "3",
+      "name": "Sanvi vs",
+      "email": "sanvi777@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Sreejith",
+      "email": "sree777@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "5",
+      "name": "alex h",
+      "email": "alex457@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "David",
+      "email": "davg@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "9",
+      "name": "Sreejithp",
+      "email": "sre77@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "8",
+      "name": "das",
+      "email": "das7@gmail.com",
+      "active": "1"
+    }
+  ]
+}
